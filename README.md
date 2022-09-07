@@ -7,6 +7,7 @@ The figure below shows the overall pipeline built:
 ![](img_pipeline.png)
 
 
+The overall steps will be:
 1) Store scraped data in AWS S3 Bucket.
 2) Split data into training, validation, & test set and store it in S3 Bucket.
 3) Build, train, and deploy the Amazon SageMaker as an endpoint in production.
