@@ -4,7 +4,7 @@ This project is an extension of previous projects which aim to do web scraping a
 
 The figure below shows the overall pipeline built: 
 
-
+![](img_pipeline.png)
 
 
 1) Store scraped data in AWS S3 Bucket.
